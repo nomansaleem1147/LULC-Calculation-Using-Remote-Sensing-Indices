@@ -1,0 +1,14 @@
+# Python environments and cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+
+# Local raster downloads / generated outputs
+*.tif
+*.tiff
+*.vrt
+*.gpkg
+*.zip
+.DS_Store
